@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "290285572953",
+    "project_id": "fir-de70a",
+    "storage_bucket": "fir-de70a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290285572953:android:951c3494ef4b2185f13248",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJK5c6gUhNLHfA_iDvKve0vtXrGMNDylI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290285572953:android:7bea433351f707acf13248",
+        "android_client_info": {
+          "package_name": "com.myapp.firstfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJK5c6gUhNLHfA_iDvKve0vtXrGMNDylI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
